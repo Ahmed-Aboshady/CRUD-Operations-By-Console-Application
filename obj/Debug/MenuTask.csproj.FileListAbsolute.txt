@@ -1,0 +1,7 @@
+E:\.NET_Programes\oop\MenuTask\obj\Debug\MenuTask.csprojAssemblyReference.cache
+E:\.NET_Programes\oop\MenuTask\obj\Debug\MenuTask.csproj.CoreCompileInputs.cache
+E:\.NET_Programes\oop\MenuTask\bin\Debug\MenuTask.exe.config
+E:\.NET_Programes\oop\MenuTask\bin\Debug\MenuTask.exe
+E:\.NET_Programes\oop\MenuTask\bin\Debug\MenuTask.pdb
+E:\.NET_Programes\oop\MenuTask\obj\Debug\MenuTask.exe
+E:\.NET_Programes\oop\MenuTask\obj\Debug\MenuTask.pdb
